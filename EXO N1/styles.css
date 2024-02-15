@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% de la hauteur de la fenêtre visible */
+    margin: 0;
+}
+#myButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #af4c75;
+    color: white;
+    border: 5px solid green;
+    cursor: pointer;
+}
+
+#displayText {
+    margin-top: 20px;
+    font-size: 18px;
+}
